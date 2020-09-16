@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Github=https://github.com/Hyy2001X
+Github=https://github.com/cdzyp520
 AutoUpdate_Github=https://github.com/Hyy2001X/Openwrt-AutoUpdate
 
 ExtraPackages() {
